@@ -7,10 +7,6 @@
             "description": "UUID",
             "value": "580814c2-a784-44d0-9380-56aa03a7de75"
         },
-        "AID": {
-            "description": "AlterID",
-            "value": "0"
-        },
         "WSPATH": {
             "description": "WebSocket Path",
             "value": "/ring"
