@@ -1,0 +1,22 @@
+{
+    "name": "V2Ray",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "580814c2-a784-44d0-9380-56aa03a7de75"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "0"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/ring"
+        }
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/xiaokanhongchen/kuv2hero",
+    "stack": "container"
+}
