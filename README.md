@@ -1,5 +1,6 @@
 # # V2Ray Heroku
-
+0822test ok 可以使用 加cf worker 。
+记录：必须使用alterid，默认0.不能在配置中删除。
 **若需部署 V2Ray VLESS，请转到 [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless) 分支。**
 
 ## 概述
